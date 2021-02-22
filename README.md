@@ -22,3 +22,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Modifications I had to make to the project gutenberg
+=================
+
+1. For paragraphs: changed font, font-family, margin
+2. For headers: changed text-align, font, margin, color
+3. For images: added a border
+4. For body: setted margin, text-align, added background paper-like image

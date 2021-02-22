@@ -1,0 +1,43 @@
+
+/* Theme paragraphs with CSS */
+p{
+    font: italic bold;
+    color: black;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em; 
+}
+
+pre{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Theme header tags with CSS */
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    font: bold;
+    font-weight: bold;
+    /* Change the colour scheme to something aesthetically pleasing */
+    color:cadetblue;
+    line-height: 1.5; 
+    margin-top: .5em; 
+    margin-bottom: .5em;
+    font-size: 150%; 
+}
+
+/* Theme images and images captions with CSS */
+img{
+    border: 3px blue solid;
+    /* images captions */
+    border-radius: 3px;
+}
+
+body{
+    background-image: url("images/old-paper.jpg");
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+}
