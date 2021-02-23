@@ -27,6 +27,10 @@ p{
 li{
     color:greenyellow;
 }
+div.sidebar{
+    color: red;
+    font-size: 30px;
+}
 
 ul.sidebar{
     width: 200px;
