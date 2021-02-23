@@ -29,3 +29,9 @@ Modifications I had to make to the project gutenberg
 2. For headers: changed text-align, font, margin, color
 3. For images: added a border
 4. For body: setted margin, text-align, added background paper-like image
+
+
+Reference (Backgroud photos)
+=================
+1. http://inspirationhut.net/wp-content/uploads/2012/11/Paper-Texture-.jpg
+2. https://pixabay.com/illustrations/colorful-chaos-chaotic-background-572279/
