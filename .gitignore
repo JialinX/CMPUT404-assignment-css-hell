@@ -35,3 +35,6 @@ nosetests.xml
 .project
 .pydevproject
 *~
+homepage/.DS_Store
+gutenberg/.DS_Store
+.DS_Store

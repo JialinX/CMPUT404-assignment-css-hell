@@ -1,0 +1,81 @@
+body{
+    /* background-color: antiquewhite; */
+    background-color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+}
+
+img.photo{
+    width:100%;
+    /* position: absolute;
+    top: 0px;
+    right: 0px; */
+}
+
+div.sidebar{
+    position: absolute;
+    top:0px;
+    right: 0px;
+    width:200px;
+    margin-left: 0px;
+    bottom: 0px;
+    background-color: chocolate;
+    margin-left: 0px;
+}
+
+li.sidebar{
+    margin-left: 10px;
+    color: antiquewhite;
+}
+.welcome{
+    border: 2px dashed chocolate;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    width: 84%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color:rgb(165, 215, 66);
+
+}
+
+h2{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+h2.history{
+    position: absolute;
+    top: 140px;
+    left: 600px;
+}
+
+p.history{
+    position: absolute;
+    top: 180px;
+    left: 600px;
+}
+
+div{
+    width: 84%;
+    border-bottom: 3px chocolate solid;
+}
+
+.license{
+    position:fixed;
+    bottom: 10px;
+    left: 120px;
+}
+
+li.left{
+    margin-left: 10px;
+}
+
+.licenseIcon{
+    position:fixed;
+    bottom: 10px;
+    left: 20px;
+}
+
+.left{
+    margin-left: 10px;
+}
